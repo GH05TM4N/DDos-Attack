@@ -21,9 +21,9 @@ os.system("clear")
 os.system("figlet DDos Attack")
 print
 print "Author   : GHOSTMAN"
-print "You Tube : https://www.youtube.com/a/blackhydra/"
-print "Github	: https://github.com/GH05TM4N/"
-print "Facebook : https://m.facebook/"
+print "Blog     : https://blackhydraofficial.blogspot.com/"
+print "Github	 : https://github.com/GH05TM4N/"
+print "Thank to : MUDASHR HACKS "
 print
 web = raw_input("web Target : ")
 ip = raw_input("IP Target : ")
@@ -32,10 +32,16 @@ port = input("Port       : ")
 os.system("clear")
 os.system("figlet Ghostman Attack")
 print "[                    ] 0% "
-time.sleep(5)
+time.sleep(3)
+print "[==                  ] 15%"
+time.sleep(3)
 print "[=====               ] 25%"
-time.sleep(5)
-print "[==========          ] 50%"
+time.sleep(3)
+print "[=======             ] 30%"
+time.sleep(3)
+print "[==========          ] 45%"
+time.sleep(3)
+print "[============        ] 50%"
 time.sleep(5)
 print "[===============     ] 75%"
 time.sleep(5)
